@@ -1,2 +1,2 @@
 # fantasy-scheduler
-Make random schedules given certain division contrains
+Makes random fantasy football schedules given certain division contrains
